@@ -16,11 +16,7 @@ items:
 - title: Agenda
   target: "/agenda/"
   kind: page
-  children:
-  - title: Archives
-    target: "/agenda/archives/"
-    kind: page
-    children: []
+  children: []
 - title: Adhérer
   target: https://www.helloasso.com/associations/les-codes-sur-la-table
   kind: url
