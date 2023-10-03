@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Les thématiques des ateliers
-  target: "/les-thematiques-des-ateliers/"
+  target: "/les-ateliers/les-thematiques-des-ateliers/"
   kind: page
   children: []
 - title: Fonctionnement & Partenariats
