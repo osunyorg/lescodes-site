@@ -9,6 +9,10 @@ items:
   target: "/les-thematiques-des-ateliers/"
   kind: page
   children: []
+- title: Fonctionnement & Partenariats
+  target: "/fonctionnement-partenariats/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
