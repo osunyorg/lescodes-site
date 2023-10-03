@@ -5,10 +5,6 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
-- title: Les thématiques des ateliers
-  target: "/les-ateliers/les-thematiques-des-ateliers/"
-  kind: page
-  children: []
 - title: Fonctionnement & Partenariats
   target: "/fonctionnement-partenariats/"
   kind: page
@@ -24,5 +20,9 @@ items:
 - title: Les ateliers
   target: "/les-ateliers/"
   kind: page
-  children: []
+  children:
+  - title: Les thématiques des ateliers
+    target: "/les-ateliers/les-thematiques-des-ateliers/"
+    kind: page
+    children: []
 
