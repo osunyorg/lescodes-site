@@ -5,6 +5,14 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
+- title: Les ateliers
+  target: "/les-ateliers/"
+  kind: page
+  children:
+  - title: Les thématiques des ateliers
+    target: "/les-ateliers/les-thematiques-des-ateliers/"
+    kind: page
+    children: []
 - title: Fonctionnement & Partenariats
   target: "/fonctionnement-partenariats/"
   kind: page
@@ -17,12 +25,4 @@ items:
   target: https://www.helloasso.com/associations/les-codes-sur-la-table
   kind: url
   children: []
-- title: Les ateliers
-  target: "/les-ateliers/"
-  kind: page
-  children:
-  - title: Les thématiques des ateliers
-    target: "/les-ateliers/les-thematiques-des-ateliers/"
-    kind: page
-    children: []
 
