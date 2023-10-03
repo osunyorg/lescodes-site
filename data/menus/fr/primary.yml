@@ -21,4 +21,8 @@ items:
   target: https://www.helloasso.com/associations/les-codes-sur-la-table
   kind: url
   children: []
+- title: L'association
+  target: "/lassociation/"
+  kind: page
+  children: []
 
