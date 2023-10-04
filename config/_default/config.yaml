@@ -5,3 +5,5 @@ removePathAccents: true
 params:
   search:
     active: true
+    position: footer
+    appearance: both
