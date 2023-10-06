@@ -25,6 +25,10 @@ items:
       target: "/les-ateliers/violences-de-genre/sexisme-pas-mon-genre/"
       kind: page
       children: []
+    - title: 1001 manières d’être un garçon
+      target: "/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon/"
+      kind: page
+      children: []
   - title: Discriminations
     target: "/les-ateliers/discriminations/"
     kind: page
