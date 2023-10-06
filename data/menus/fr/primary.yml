@@ -13,6 +13,10 @@ items:
     target: "/les-ateliers/"
     kind: page
     children: []
+  - title: Violences de genre
+    target: "/les-ateliers/violences-de-genre/"
+    kind: page
+    children: []
 - title: Fonctionnement & Partenariats
   target: "/fonctionnement-partenariats/"
   kind: page
