@@ -17,6 +17,10 @@ items:
     target: "/les-ateliers/violences-de-genre/"
     kind: page
     children: []
+  - title: Discriminations
+    target: "/les-ateliers/discriminations/"
+    kind: page
+    children: []
 - title: Fonctionnement & Partenariats
   target: "/fonctionnement-partenariats/"
   kind: page
