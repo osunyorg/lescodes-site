@@ -9,7 +9,7 @@ items:
   target: "/les-ateliers/"
   kind: page
   children:
-  - title: Les ateliers
+  - title: Infos essentielles
     target: "/les-ateliers/"
     kind: page
     children: []
