@@ -1,5 +1,5 @@
 ---
-title: Primary
+title: Menu principal
 items:
 - title: L'association
   target: "/lassociation/"
@@ -11,10 +11,6 @@ items:
   children:
   - title: Les ateliers
     target: "/les-ateliers/"
-    kind: page
-    children: []
-  - title: Les thématiques des ateliers
-    target: "/les-ateliers/les-thematiques-des-ateliers/"
     kind: page
     children: []
 - title: Fonctionnement & Partenariats
