@@ -29,6 +29,10 @@ items:
       target: "/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon/"
       kind: page
       children: []
+    - title: Être viril ou pas…
+      target: "/les-ateliers/violences-de-genre/etre-viril-ou-pas/"
+      kind: page
+      children: []
   - title: Discriminations
     target: "/les-ateliers/discriminations/"
     kind: page
