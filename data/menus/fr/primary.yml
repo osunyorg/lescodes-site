@@ -16,7 +16,11 @@ items:
   - title: Violences de genre
     target: "/les-ateliers/violences-de-genre/"
     kind: page
-    children: []
+    children:
+    - title: L’égalité des genres, on en parle ?
+      target: "/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
+      kind: page
+      children: []
   - title: Discriminations
     target: "/les-ateliers/discriminations/"
     kind: page
