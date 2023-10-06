@@ -33,6 +33,14 @@ items:
       target: "/les-ateliers/violences-de-genre/etre-viril-ou-pas/"
       kind: page
       children: []
+    - title: Le consentement sexuel et la loi
+      target: "/les-ateliers/violences-de-genre/le-consentement-sexuel-et-la-loi/"
+      kind: page
+      children: []
+    - title: Pornographie, quels dangers ?
+      target: "/les-ateliers/violences-de-genre/pornographie-quels-dangers/"
+      kind: page
+      children: []
   - title: Discriminations
     target: "/les-ateliers/discriminations/"
     kind: page
