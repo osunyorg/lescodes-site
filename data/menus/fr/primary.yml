@@ -5,6 +5,7 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
+  file: content/fr/pages/lassociation/_index.html
 - title: Les ateliers
   target: "/les-ateliers/"
   kind: page
@@ -13,6 +14,7 @@ items:
     target: "/les-ateliers/"
     kind: page
     children: []
+    file: content/fr/pages/les-ateliers/_index.html
   - title: Violences de genre
     target: "/les-ateliers/violences-de-genre/"
     kind: page
@@ -21,38 +23,49 @@ items:
       target: "/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
       kind: page
       children: []
+      file: content/fr/pages/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/_index.html
     - title: Sexisme, pas mon genre !
       target: "/les-ateliers/violences-de-genre/sexisme-pas-mon-genre/"
       kind: page
       children: []
+      file: content/fr/pages/les-ateliers/violences-de-genre/sexisme-pas-mon-genre/_index.html
     - title: 1001 manières d’être un garçon
       target: "/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon/"
       kind: page
       children: []
+      file: content/fr/pages/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon/_index.html
     - title: Être viril ou pas…
       target: "/les-ateliers/violences-de-genre/etre-viril-ou-pas/"
       kind: page
       children: []
+      file: content/fr/pages/les-ateliers/violences-de-genre/etre-viril-ou-pas/_index.html
     - title: Le consentement sexuel et la loi
       target: "/les-ateliers/violences-de-genre/le-consentement-sexuel-et-la-loi/"
       kind: page
       children: []
+      file: content/fr/pages/les-ateliers/violences-de-genre/le-consentement-sexuel-et-la-loi/_index.html
     - title: Pornographie, quels dangers ?
       target: "/les-ateliers/violences-de-genre/pornographie-quels-dangers/"
       kind: page
       children: []
+      file: content/fr/pages/les-ateliers/violences-de-genre/pornographie-quels-dangers/_index.html
+    file: content/fr/pages/les-ateliers/violences-de-genre/_index.html
   - title: Discriminations
     target: "/les-ateliers/discriminations/"
     kind: page
     children: []
+    file: content/fr/pages/les-ateliers/discriminations/_index.html
   - title: Ecologie
     target: "/les-ateliers/ecologie/"
     kind: page
     children: []
+    file: content/fr/pages/les-ateliers/ecologie/_index.html
+  file: content/fr/pages/les-ateliers/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Adhérer
   target: https://www.helloasso.com/associations/les-codes-sur-la-table
   kind: url
