@@ -7,15 +7,30 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        LesCodesSurlatable@gmail.com
-      linkedin: >-
-        https://www.linkedin.com/company/lescodessurlatable/about/
-      instagram: >-
-        https://www.instagram.com/lescodessurlatable
-      facebook: >-
-        https://www.facebook.com/LesCodesSurLaTable
+    contact_details:
+      emails:
+        email:
+          label: >-
+            LesCodesSurlatable@gmail.com
+          value: >-
+            mailto:LesCodesSurlatable@gmail.com
+      social_networks:
+        facebook:
+          label: >-
+            LesCodesSurLaTable
+          value: >-
+            https://www.facebook.com/LesCodesSurLaTable
+        instagram:
+          label: >-
+            lescodessurlatable
+          value: >-
+            https://instagram.com/lescodessurlatable
+        linkedin:
+          label: >-
+            lescodessurlatableabout
+          value: >-
+            https://www.linkedin.com/company/lescodessurlatable/about/
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
