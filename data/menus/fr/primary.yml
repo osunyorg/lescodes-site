@@ -5,6 +5,7 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
+  path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Les ateliers
   target: "/les-ateliers/"
@@ -14,6 +15,7 @@ items:
     target: "/les-ateliers/"
     kind: page
     children: []
+    path: "/pages/les-ateliers"
     file: content/fr/pages/les-ateliers/_index.html
   - title: Violences de genre
     target: "/les-ateliers/violences-de-genre/"
@@ -23,48 +25,59 @@ items:
       target: "/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
       kind: page
       children: []
+      path: "/pages/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle"
       file: content/fr/pages/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/_index.html
     - title: Sexisme, pas mon genre !
       target: "/les-ateliers/violences-de-genre/sexisme-pas-mon-genre/"
       kind: page
       children: []
+      path: "/pages/les-ateliers/violences-de-genre/sexisme-pas-mon-genre"
       file: content/fr/pages/les-ateliers/violences-de-genre/sexisme-pas-mon-genre/_index.html
     - title: 1001 manières d’être un garçon
       target: "/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon/"
       kind: page
       children: []
+      path: "/pages/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon"
       file: content/fr/pages/les-ateliers/violences-de-genre/1001-manieres-detre-un-garcon/_index.html
     - title: Être viril ou pas…
       target: "/les-ateliers/violences-de-genre/etre-viril-ou-pas/"
       kind: page
       children: []
+      path: "/pages/les-ateliers/violences-de-genre/etre-viril-ou-pas"
       file: content/fr/pages/les-ateliers/violences-de-genre/etre-viril-ou-pas/_index.html
     - title: Le consentement sexuel et la loi
       target: "/les-ateliers/violences-de-genre/le-consentement-sexuel-et-la-loi/"
       kind: page
       children: []
+      path: "/pages/les-ateliers/violences-de-genre/le-consentement-sexuel-et-la-loi"
       file: content/fr/pages/les-ateliers/violences-de-genre/le-consentement-sexuel-et-la-loi/_index.html
     - title: Pornographie, quels dangers ?
       target: "/les-ateliers/violences-de-genre/pornographie-quels-dangers/"
       kind: page
       children: []
+      path: "/pages/les-ateliers/violences-de-genre/pornographie-quels-dangers"
       file: content/fr/pages/les-ateliers/violences-de-genre/pornographie-quels-dangers/_index.html
+    path: "/pages/les-ateliers/violences-de-genre"
     file: content/fr/pages/les-ateliers/violences-de-genre/_index.html
   - title: Discriminations
     target: "/les-ateliers/discriminations/"
     kind: page
     children: []
+    path: "/pages/les-ateliers/discriminations"
     file: content/fr/pages/les-ateliers/discriminations/_index.html
   - title: Ecologie
     target: "/les-ateliers/ecologie/"
     kind: page
     children: []
+    path: "/pages/les-ateliers/ecologie"
     file: content/fr/pages/les-ateliers/ecologie/_index.html
+  path: "/pages/les-ateliers"
   file: content/fr/pages/les-ateliers/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Adhérer
   target: https://www.helloasso.com/associations/les-codes-sur-la-table
