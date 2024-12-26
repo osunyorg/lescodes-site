@@ -7,8 +7,8 @@ params:
     position: after-hero
   search:
     active: true
-    position: footer
-    appearance: both
+    positions:
+      - footer
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/icone.svg"
