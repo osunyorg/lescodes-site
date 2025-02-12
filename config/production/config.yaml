@@ -2,6 +2,11 @@
 
 baseURL: https://www.lescodessurlatable.org
 
+## OSUNY
+osuny:
+  website:
+    id: 5b5f01ed-3376-46a3-a113-80500f4d71cf
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
