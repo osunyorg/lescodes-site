@@ -15,34 +15,34 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/les-thematiques-des-ateliers/ecologie/"
+from = "/les-thematiques-des-ateliers/ecologie/index.html"
 to = "/les-ateliers/ecologie/"
 
 [[redirects]]
-from = "/les-thematiques-des-ateliers/discriminations/"
+from = "/les-thematiques-des-ateliers/discriminations/index.html"
 to = "/les-ateliers/discriminations/"
 
 [[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/discriminations/"
+from = "/les-ateliers/les-thematiques-des-ateliers/discriminations/index.html"
 to = "/les-ateliers/discriminations/"
 
 [[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/ecologie/"
+from = "/les-ateliers/les-thematiques-des-ateliers/ecologie/index.html"
 to = "/les-ateliers/ecologie/"
 
 [[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/violences-de-genre/"
+from = "/les-ateliers/les-thematiques-des-ateliers/violences-de-genre/index.html"
 to = "/les-ateliers/violences-de-genre/"
 
 [[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
+from = "/les-ateliers/les-thematiques-des-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/index.html"
 to = "/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
 
 [[redirects]]
-from = "/les-thematiques-des-ateliers/violences-de-genre/"
+from = "/les-thematiques-des-ateliers/violences-de-genre/index.html"
 to = "/les-ateliers/violences-de-genre/"
 
 [[redirects]]
-from = "/les-thematiques-des-ateliers/"
+from = "/les-thematiques-des-ateliers/index.html"
 to = "/les-ateliers/les-thematiques-des-ateliers/"
 
