@@ -13,36 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/les-thematiques-des-ateliers/ecologie/"
-to = "/les-ateliers/ecologie/"
-
-[[redirects]]
-from = "/les-thematiques-des-ateliers/discriminations/"
-to = "/les-ateliers/discriminations/"
-
-[[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/discriminations/"
-to = "/les-ateliers/discriminations/"
-
-[[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/ecologie/"
-to = "/les-ateliers/ecologie/"
-
-[[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/violences-de-genre/"
-to = "/les-ateliers/violences-de-genre/"
-
-[[redirects]]
-from = "/les-ateliers/les-thematiques-des-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
-to = "/les-ateliers/violences-de-genre/legalite-des-genres-on-en-parle/"
-
-[[redirects]]
-from = "/les-thematiques-des-ateliers/violences-de-genre/"
-to = "/les-ateliers/violences-de-genre/"
-
-[[redirects]]
-from = "/les-thematiques-des-ateliers/"
-to = "/les-ateliers/les-thematiques-des-ateliers/"
-
